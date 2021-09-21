@@ -154,7 +154,7 @@ if (opcoes[1] != 3) {
         console.log("um dos cara te encontrou na floresta, mas ele acabou pisando numa armadinha de urso, você tenta corre e leva um tiro re raspão no braço")
         console.log("conseguindo chegar na estrada vc avista um carro que te leva pra cidade mais procima e você sai vivo!")
     } else {
-        console.log("Você saindo acaba na encontrando um dos cara, você corre dele e ele pisa numa armadinha de urso, errando o tiro e sua arma caindo loge dele, alguns segundos um elicoptero aparece")
-        console.log("quando voê vê é um elicoptero policial de resgate, te encontrando por conta do tiro disparado e rendendo os bandidos e vc sendo salvo!")
+        console.log("Você saindo acaba na encontrando um dos cara, você corre dele e ele pisa numa armadinha de urso, errando o tiro e sua arma caindo longe dele, alguns segundos um helicoptero aparece")
+        console.log("quando você vê é um helicoptero policial de resgate, te encontrando por conta do tiro disparado e rendendo os bandidos e você sendo salvo!")
     }
 }
